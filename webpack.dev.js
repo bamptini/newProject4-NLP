@@ -14,7 +14,7 @@ module.exports = {
         library: 'Client'
     },
     devServer: {
-        port:8081 // By default webpack runs on port 8080, this woll change default port
+        port:8081 // By default webpack runs on port 8080, this will change default port
     },
     module: {
         rules: [
